@@ -1,0 +1,177 @@
+{
+  "internal_code": 0,
+  "message": "Leaderboard was successfully generated.",
+  "response_object": {
+    "level_name": "NIVEL BRONCE",
+    "message": "Incrementa tus ventas...",
+    "list_title": "Top 10 Distribuidores Nivel Bronce",
+    "period_title": "Julio 2019",
+    "user_position": {
+      "uuid": "8c1cd964-4c79-42c4-a4d1-0e6cc8bbf700",
+      "position": 0,
+      "workplace_id": "106424",
+      "workplace_name": null,
+      "accumulated_points": 0
+    },
+    "podium": [
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Jose Omar",
+        "workplace_name": "JOSE OMAR GUZMAN DIAZ",
+        "user_name": "unefon+103425",
+        "full_name": "Jose Omar Guzman Diaz",
+        "profile_picture_low_res_url": "",
+        "position": 1,
+        "accumulated_points": 2163,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "2,163"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Jonathan Joan",
+        "workplace_name": "JONATHAN JOAN LOPEZ CASTRO",
+        "user_name": "unefon+106480",
+        "full_name": "Jonathan Joan López Castro",
+        "profile_picture_low_res_url": "",
+        "position": 2,
+        "accumulated_points": 2031,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "2,031"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Juanjo",
+        "workplace_name": "COMERCIALIZADORA AXNE SA DE CV",
+        "user_name": "unefon+106217",
+        "full_name": "Juanjo Nuñez Mendoza",
+        "profile_picture_low_res_url": "",
+        "position": 3,
+        "accumulated_points": 1928,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "1,928"
+      }
+    ],
+    "all_users": [
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Jose Omar",
+        "workplace_name": "JOSE OMAR GUZMAN DIAZ",
+        "user_name": "unefon+103425",
+        "full_name": "Jose Omar Guzman Diaz",
+        "profile_picture_low_res_url": "",
+        "position": 1,
+        "accumulated_points": 2163,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "2,163"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Jonathan Joan",
+        "workplace_name": "JONATHAN JOAN LOPEZ CASTRO",
+        "user_name": "unefon+106480",
+        "full_name": "Jonathan Joan López Castro",
+        "profile_picture_low_res_url": "",
+        "position": 2,
+        "accumulated_points": 2031,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "2,031"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Juanjo",
+        "workplace_name": "COMERCIALIZADORA AXNE SA DE CV",
+        "user_name": "unefon+106217",
+        "full_name": "Juanjo Nuñez Mendoza",
+        "profile_picture_low_res_url": "",
+        "position": 3,
+        "accumulated_points": 1928,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "1,928"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Luis Virgilio",
+        "workplace_name": "ROMATEC SA DE CV",
+        "user_name": "unefon+106222",
+        "full_name": "Luis Virgilio Romero Melendez",
+        "profile_picture_low_res_url": "",
+        "position": 4,
+        "accumulated_points": 1842,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "1,842"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Maria Maribel",
+        "workplace_name": "MARIA MARIBEL MARTINEZ COLMENERO",
+        "user_name": "unefon+106529",
+        "full_name": "Maria Maribel Martinez Colmenero",
+        "profile_picture_low_res_url": "",
+        "position": 5,
+        "accumulated_points": 1841,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "1,841"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Rubén Darinel",
+        "workplace_name": "RUBEN DARINEL SOLIS HERNANDEZ",
+        "user_name": "unefon+106478",
+        "full_name": "Rubén Darinel Solís Hernández",
+        "profile_picture_low_res_url": "",
+        "position": 6,
+        "accumulated_points": 1806,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "1,806"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Mayra",
+        "workplace_name": "CONTACT PEOPLE SA DE CV",
+        "user_name": "unefon+106368",
+        "full_name": "Mayra Razura Barranco",
+        "profile_picture_low_res_url": "",
+        "position": 7,
+        "accumulated_points": 1732,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "1,732"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Rigoberto",
+        "workplace_name": "RIGOBERTO BECERRA GONZALEZ",
+        "user_name": "unefon+103460",
+        "full_name": "Rigoberto Becerra González",
+        "profile_picture_low_res_url": "",
+        "position": 8,
+        "accumulated_points": 1568,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "1,568"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Omar Alejandro",
+        "workplace_name": "H-A MOBIL SA DE CV",
+        "user_name": "unefon+106525",
+        "full_name": "Omar Alejandro Resendiz Ramirez",
+        "profile_picture_low_res_url": "",
+        "position": 9,
+        "accumulated_points": 1513,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "1,513"
+      },
+      {
+        "profile_picture_high_res_url": "",
+        "first_name": "Marco Antonio",
+        "workplace_name": "MARCO ANTONIO CISNEROS SANCHEZ",
+        "user_name": "unefon+103440",
+        "full_name": "Marco Antonio Cisneros Sanchez",
+        "profile_picture_low_res_url": "",
+        "position": 10,
+        "accumulated_points": 1466,
+        "preliminar_balance": 0,
+        "accumulated_points_str": "1,466"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "internal_code": 0,
+  "message": "Los correos fueron recuperados exitosamente.",
+  "response_object": {
+    "read_count": 0,
+    "mails": [
+      {
+        "mail_id": "e5333447-abd3-4c36-a02f-cf2c042acd71",
+        "from_name": "Unefon Team",
+        "from_address": "contacto@vende-gana-con-unefon.com.mx",
+        "is_read": 0,
+        "snippet": "Bienvenido a Vende y Gana con Unefon",
+        "received_date": "2019-07-13T00:32:14.333",
+        "absolute_date_str": "13/JUL/19",
+        "relative_date_str": "13/JUL/19",
+        "subject": "Bienvenido a Vende y Gana con Unefon",
+        "has_attachments": "0",
+        "is_forwarded": 0,
+        "is_favourite": 0
+      }
+    ],
+    "inbox_count": 1,
+    "favourites_count": 0,
+    "forwarded_count": 0
+  }
+}

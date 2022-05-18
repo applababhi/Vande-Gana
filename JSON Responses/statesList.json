@@ -1,0 +1,203 @@
+{
+  "internal_code": 0,
+  "message": "Catalogue was found successfully.",
+  "response_object": {
+    "catalogue_id": "1",
+    "catalogue_name": "Estados de la República",
+    "items_count": 32,
+    "values": [
+      {
+        "id": 101,
+        "value": "Aguascalientes",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 102,
+        "value": "Baja California",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 103,
+        "value": "Baja California Sur",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 104,
+        "value": "Campeche",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 105,
+        "value": "Coahuila",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 106,
+        "value": "Colima",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 107,
+        "value": "Chiapas",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 108,
+        "value": "Chihuahua",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 109,
+        "value": "Ciudad de México",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 110,
+        "value": "Durango",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 111,
+        "value": "Guanajuato",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 112,
+        "value": "Guerrero",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 113,
+        "value": "Hidalgo",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 114,
+        "value": "Jalisco",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 115,
+        "value": "Estado de México",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 116,
+        "value": "Michoacán",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 117,
+        "value": "Morelos",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 118,
+        "value": "Nayarit",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 119,
+        "value": "Nuevo León",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 120,
+        "value": "Oaxaca",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 121,
+        "value": "Puebla",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 122,
+        "value": "Querétaro",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 123,
+        "value": "Quintana Roo",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 124,
+        "value": "San Luis Potosí",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 125,
+        "value": "Sinaloa",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 126,
+        "value": "Sonora",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 127,
+        "value": "Tabasco",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 128,
+        "value": "Tamaulipas",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 129,
+        "value": "Tlaxcala",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 130,
+        "value": "Veracruz",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 131,
+        "value": "Yucatán",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      },
+      {
+        "id": 132,
+        "value": "Zacatecas",
+        "child_catalogue_id": 0,
+        "parent_value_id": 0
+      }
+    ]
+  }
+}

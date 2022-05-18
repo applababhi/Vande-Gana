@@ -1,0 +1,10 @@
+{
+  "internal_code": 0,
+  "message": "Los planes activos fueron recuperados exitosamente.",
+  "response_object": [
+    {
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "plan_name": "Vende y Gana con Unefon"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "internal_code": 0,
+  "message": "Full gift was successfully retrieved.",
+  "response_object": {
+    "can_request": 0,
+    "allow_free_denomination": 0,
+    "has_banners": 1,
+    "gift": {
+      "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "creation_date": "2018-12-06T00:00:00",
+      "category": 6,
+      "supplier": "Inspirum",
+      "brand": "Starbucks",
+      "gift_name": "Starbucks Card",
+      "description": "Starbucks compra y tuesta cafés en grano de gran calidad. Es la esencia de nuestra actividad.\r\n\r\nNuestras cafeterías se han convertido en puntos de referencia para los amantes del café en todo el mundo. ¿Pero por qué insisten en venir a Starbucks? Porque saben que reciben un servicio genuino, un ambiente acogedor y una magnífica taza de café tostado preparado con esmero por manos expertas.\r\n\r\n1 Punto = $1.00\r\n\r\nDenominaciones Disponibles: 100, 200 y 300 puntos.",
+      "front_cover_url": "https://unefon.blob.core.windows.net/core-media-images/d6a2c33b-9bcd-4d69-9bea-2f4d502ae27f.jpg",
+      "back_cover_url": "https://unefon.blob.core.windows.net/core-media-images/a62b7c0c-7994-4cea-9d09-5e3ad3614691.jpg",
+      "logo_url": "https://unefon.blob.core.windows.net/core-media-images/d5c60ec6-0b5e-4e3c-bc0d-377c7e9d6f04.jpg",
+      "brand_url": "http://starbucks.mx",
+      "store_url": "http://rewards.starbucks.mx",
+      "available": 1,
+      "instructions": "1. Descarga e ingresa a la aplicación Starbucks® México.\r\n2. Regístrate o inicia sesión.\r\n3. Selecciona “Pago” y a continuación “Administrar”.\r\n4. Elegir la opción de \"Agregar tarjeta de Starbucks®\"\r\n5. Ingresa tu Número de tarjeta y tu NIP.\r\n6. Haz click en \"Agregar\"\r\n7. Actualiza la página y asegúrate que el crédito ha sido abonado a tu cuenta.",
+      "gift_type": 4,
+      "terms_conditions_url": "http://www.starbucks.com.mx/about-us/company-information/online-policies/terms-of-use",
+      "privacy_advice_url": "http://www.starbucks.com.mx/about-us/company-information/online-policies/privacy-statement"
+    },
+    "denominations": [],
+    "available_locations": [
+      {
+        "geo_availability_id": "0d854304-27c4-44b4-990a-347ab6ad7fe9",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 111
+      },
+      {
+        "geo_availability_id": "11c37c79-0746-4da3-90e7-4e633d02f004",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 113
+      },
+      {
+        "geo_availability_id": "1dc1be48-bb6d-4ace-ad37-cb148f9c6611",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 101
+      },
+      {
+        "geo_availability_id": "1dc21119-7c80-4b84-9d03-d1b67dd6b1fb",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 122
+      },
+      {
+        "geo_availability_id": "222e7569-9d45-4bd1-a39b-321734c93547",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 126
+      },
+      {
+        "geo_availability_id": "2aeae5b6-2f38-4b5f-8377-3f8b03c4337b",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 102
+      },
+      {
+        "geo_availability_id": "33f2b2d4-77cc-4bc2-9944-e24f433e6ee8",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 105
+      },
+      {
+        "geo_availability_id": "4555ad33-c0e5-4e7c-a542-f423535e424e",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 115
+      },
+      {
+        "geo_availability_id": "4b7d763a-e6bb-47ad-bbf0-d7340f5cf608",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 110
+      },
+      {
+        "geo_availability_id": "4c071e46-f708-457e-8820-62b79a8eab89",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 108
+      },
+      {
+        "geo_availability_id": "5095fb40-bcf1-423e-902f-ffdf5e458a81",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 124
+      },
+      {
+        "geo_availability_id": "51364514-3673-4032-a71e-aa566951eb1a",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 106
+      },
+      {
+        "geo_availability_id": "51528c6e-1056-410d-a50a-c71a15580644",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 114
+      },
+      {
+        "geo_availability_id": "62255f10-6908-43f6-ad08-a318a3f27a8e",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 131
+      },
+      {
+        "geo_availability_id": "6250369c-b691-48ad-8ee7-efab821a19c1",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 116
+      },
+      {
+        "geo_availability_id": "63f8b5cc-473f-447b-bdb3-6cc797f7a5c2",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 121
+      },
+      {
+        "geo_availability_id": "65b0f4d3-7862-41ce-8018-0be73f3cff18",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 103
+      },
+      {
+        "geo_availability_id": "73865aa9-7c4c-4d0b-af81-e96ab28d7f0d",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 125
+      },
+      {
+        "geo_availability_id": "8555ef65-c683-4962-a18a-d04096d597e4",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 123
+      },
+      {
+        "geo_availability_id": "88a7cc1b-1ed0-458e-b2d6-39f5b8258c6e",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 117
+      },
+      {
+        "geo_availability_id": "972b739f-f878-416f-83ab-a560d3ba9f61",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 130
+      },
+      {
+        "geo_availability_id": "9bbaf81c-0f7b-40aa-8a33-b21dfb12e981",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 107
+      },
+      {
+        "geo_availability_id": "9bed8574-3ce5-476f-9c4c-406900450ba8",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 104
+      },
+      {
+        "geo_availability_id": "9e6196d9-0010-40dc-960c-3ccc40922cd1",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 112
+      },
+      {
+        "geo_availability_id": "bc09c5c9-a2b6-4dd9-955c-17b28d0f7e9c",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 119
+      },
+      {
+        "geo_availability_id": "c2b5cb0a-fd3a-4b1b-b525-d403debf1d26",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 127
+      },
+      {
+        "geo_availability_id": "ced6f823-f92b-4f39-a3cf-7371679b0174",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 129
+      },
+      {
+        "geo_availability_id": "e35652b8-cd6c-4286-b50c-7b3162afb138",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 132
+      },
+      {
+        "geo_availability_id": "ecb8541e-3290-474d-93ce-05714a3acdc2",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 109
+      },
+      {
+        "geo_availability_id": "fc6a80a0-6a7e-475d-a733-a5694ac29d08",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 120
+      },
+      {
+        "geo_availability_id": "fce67321-59d7-451b-b0bd-15125772973f",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 128
+      },
+      {
+        "geo_availability_id": "fdfb218f-9b3c-4a0a-8bcc-91f160ef9cd2",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "state_id": 118
+      }
+    ],
+    "banners": [
+      {
+        "banner_id": "101726d9-6b24-4060-b79f-2f4863377490",
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "media_id": "281c2fd2-2a61-437a-9277-46a88f434d2e",
+        "medium_res_url": "https://unefon.blob.core.windows.net/core-media-images/883a3cd3-5178-4749-8df6-217946047ed7_th.jpg",
+        "high_res_url": "https://unefon.blob.core.windows.net/core-media-images/883a3cd3-5178-4749-8df6-217946047ed7.jpg",
+        "active_status": 1
+      }
+    ]
+  }
+}

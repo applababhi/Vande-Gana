@@ -1,0 +1,1020 @@
+{
+  "internal_code": 0,
+  "message": "Available gifts were successfully collected.",
+  "response_object": [
+    {
+      "gift": {
+        "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+        "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+        "creation_date": "2018-12-06T00:00:00",
+        "category": 6,
+        "supplier": "Inspirum",
+        "brand": "Starbucks",
+        "gift_name": "Starbucks Card",
+        "description": "Starbucks compra y tuesta cafés en grano de gran calidad. Es la esencia de nuestra actividad.\r\n\r\nNuestras cafeterías se han convertido en puntos de referencia para los amantes del café en todo el mundo. ¿Pero por qué insisten en venir a Starbucks? Porque saben que reciben un servicio genuino, un ambiente acogedor y una magnífica taza de café tostado preparado con esmero por manos expertas.\r\n\r\n1 Punto = $1.00\r\n\r\nDenominaciones Disponibles: 100, 200 y 300 puntos.",
+        "front_cover_url": "https://unefon.blob.core.windows.net/core-media-images/d6a2c33b-9bcd-4d69-9bea-2f4d502ae27f.jpg",
+        "back_cover_url": "https://unefon.blob.core.windows.net/core-media-images/a62b7c0c-7994-4cea-9d09-5e3ad3614691.jpg",
+        "logo_url": "https://unefon.blob.core.windows.net/core-media-images/d5c60ec6-0b5e-4e3c-bc0d-377c7e9d6f04.jpg",
+        "brand_url": "http://starbucks.mx",
+        "store_url": "http://rewards.starbucks.mx",
+        "available": 1,
+        "instructions": "1. Descarga e ingresa a la aplicación Starbucks® México.\r\n2. Regístrate o inicia sesión.\r\n3. Selecciona “Pago” y a continuación “Administrar”.\r\n4. Elegir la opción de \"Agregar tarjeta de Starbucks®\"\r\n5. Ingresa tu Número de tarjeta y tu NIP.\r\n6. Haz click en \"Agregar\"\r\n7. Actualiza la página y asegúrate que el crédito ha sido abonado a tu cuenta.",
+        "gift_type": 4,
+        "terms_conditions_url": "http://www.starbucks.com.mx/about-us/company-information/online-policies/terms-of-use",
+        "privacy_advice_url": "http://www.starbucks.com.mx/about-us/company-information/online-policies/privacy-statement"
+      },
+      "denominations": [
+        {
+          "denomination_id": "e96a6cef-9699-44a0-a25e-26e1248f33cc",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "denomination": 100
+        },
+        {
+          "den2019-07-26 14:16:20.889114+0800 Unefon[2822:55018] [] nw_socket_handle_socket_event [C1.1:3] Socket SO_ERROR [54: Connection reset by peer]\nomination_id": "747e0b1d-c691-47f2-8190-b69d375534d7",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "denomination": 200
+        },
+        {
+          "denomination_id": "0436beaf-522f-420d-9821-d4787e455f14",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "denomination": 300
+        }
+      ],
+      "available_locations": [
+        {
+          "geo_availability_id": "0d854304-27c4-44b4-990a-347ab6ad7fe9",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 111
+        },
+        {
+          "geo_availability_id": "11c37c79-0746-4da3-90e7-4e633d02f004",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 113
+        },
+        {
+          "geo_availability_id": "1dc1be48-bb6d-4ace-ad37-cb148f9c6611",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 101
+        },
+        {
+          "geo_availability_id": "1dc21119-7c80-4b84-9d03-d1b67dd6b1fb",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 122
+        },
+        {
+          "geo_availability_id": "222e7569-9d45-4bd1-a39b-321734c93547",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 126
+        },
+        {
+          "geo_availability_id": "2aeae5b6-2f38-4b5f-8377-3f8b03c4337b",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 102
+        },
+        {
+          "geo_availability_id": "33f2b2d4-77cc-4bc2-9944-e24f433e6ee8",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 105
+        },
+        {
+          "geo_availability_id": "4555ad33-c0e5-4e7c-a542-f423535e424e",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 115
+        },
+        {
+          "geo_availability_id": "4b7d763a-e6bb-47ad-bbf0-d7340f5cf608",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 110
+        },
+        {
+          "geo_availability_id": "4c071e46-f708-457e-8820-62b79a8eab89",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 108
+        },
+        {
+          "geo_availability_id": "5095fb40-bcf1-423e-902f-ffdf5e458a81",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 124
+        },
+        {
+          "geo_availability_id": "51364514-3673-4032-a71e-aa566951eb1a",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 106
+        },
+        {
+          "geo_availability_id": "51528c6e-1056-410d-a50a-c71a15580644",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d2019-07-26 14:16:20.899647+0800 Unefon[2822:55018] [BoringSSL] nw_protocol_boringssl_error(1584) [C1.1:2][0x7f8071c0de80] Lower protocol stack error: 54\n90",
+          "state_id": 114
+        },
+        {
+          "geo_availability_id": "62255f10-6908-43f6-ad08-a318a3f27a8e",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 131
+        },
+        {
+          "geo_availability_id": "6250369c-b691-48ad-8ee7-efab821a19c1",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 116
+        },
+        {
+          "geo_availability_id": "63f8b5cc-473f-447b-bdb3-6cc797f7a5c2",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 121
+        },
+        {
+          "geo_availability_id": "65b0f4d3-7862-41ce-8018-0be73f3cff18",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 103
+        },
+        {
+          "geo_availability_id": "73865aa9-7c4c-4d0b-af81-e96ab28d7f0d",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 125
+        },
+        {
+          "geo_availability_id": "8555ef65-c683-4962-a18a-d04096d597e4",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 123
+        },
+        {
+          "geo_availability_id": "88a7cc1b-1ed0-458e-b2d6-39f5b8258c6e",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 117
+        },
+        {
+          "geo_availability_id": "972b739f-f878-416f-83ab-a560d3ba9f61",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 130
+        },
+        {
+          "geo_availability_id": "9bbaf81c-0f7b-40aa-8a33-b21dfb12e981",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 107
+        },
+        {
+          "geo_availability_id": "9bed8574-3ce5-476f-9c4c-406900450ba8",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 104
+        },
+        {
+          "geo_availability_id": "9e6196d9-0010-40dc-960c-3ccc40922cd1",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 112
+        },
+        {
+          "geo_availability_id": "bc09c5c9-a2b6-4dd9-955c-17b28d0f7e9c",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 119
+        },
+        {
+          "geo_availability_id": "c2b5cb0a-fd3a-4b1b-b525-d403debf1d26",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 127
+        },
+        {
+          "geo_availability_id": "ced6f823-f92b-4f39-a3cf-7371679b0174",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 129
+        },
+        {
+          "geo_availability_id": "e35652b8-cd6c-4286-b50c-7b3162afb138",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 132
+        },
+        {
+          "geo_availability_id": "ecb8541e-3290-474d-93ce-05714a3acdc2",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 109
+        },
+        {
+          "geo_availability_id": "fc6a80a0-6a7e-475d-a733-a5694ac29d08",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 120
+        },
+        {
+          "geo_ava2019-07-26 14:16:20.903703+0800 Unefon[2822:55018] [BoringSSL] nw_protocol_boringssl_error(1584) [C1.1:2][0x7f8071c0de80] Lower protocol stack error: 32\nilability_id": "fce67321-59d7-451b-b0bd-15125772973f",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 128
+        },
+        {
+          "geo_availability_id": "fdfb218f-9b3c-4a0a-8bcc-91f160ef9cd2",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "state_id": 118
+        }
+      ],
+      "banners": [
+        {
+          "banner_id": "101726d9-6b24-4060-b79f-2f4863377490",
+          "gift_id": "17c66d4b-fead-4eb8-893c-06a915747d90",
+          "media_id": "281c2fd2-2a61-437a-9277-46a88f434d2e",
+          "medium_res_url": "https://unefon.blob.core.windows.net/core-media-images/883a3cd3-5178-4749-8df6-217946047ed7_th.jpg",
+          "high_res_url": "https://unefon.blob.core.windows.net/core-media-images/883a3cd3-5178-4749-8df6-217946047ed7.jpg",
+          "active_status": 1
+        }
+      ]
+    },
+    {
+      "gift": {
+        "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+        "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+        "creation_date": "2018-12-13T00:00:00",
+        "category": 3,
+        "supplier": "Inspirum",
+        "brand": "Spotify",
+        "gift_name": "Spotify Digital Code",
+        "description": "Spotify es un servicio de música digital que te da acceso a millones de canciones. Tu música sin anuncios, playlists originales y descubre nuevos artistas.\r\n\r\n1 Punto = $1.00\r\n\r\nDenominaciones disponibles: 100, 300 y 600 puntos.",
+        "front_cover_url": "https://unefon.blob.core.windows.net/core-media-images/37e957f2-1272-4fcc-befb-c8e6179b679a.jpg",
+        "back_cover_url": "https://unefon.blob.core.windows.net/core-media-images/0d645d45-c1a6-4c82-9d69-c6730fc76481.jpg",
+        "logo_url": "https://unefon.blob.core.windows.net/core-media-images/225d105c-bb07-496c-a023-79a5d0c29d56.jpg",
+        "brand_url": "https://spotify.com",
+        "store_url": "https://spotify.com/redeem",
+        "available": 1,
+        "instructions": "Ingresa a spotify.com/redeem con tu cuenta personal, si no haz creado una deberás registrarte. Ingresa el código y en seguida el saldo se abonará a tu ",
+        "gift_type": 1,
+        "terms_conditions_url": "https://www.spotify.com/mx/legal/end-user-agreement/",
+        "privacy_advice_url": "https://www.spotify.com/mx/legal/privacy-policy/"
+      },
+      "denominations": [
+        {
+          "denomination_id": "fb5f2fbf-b90c-4f9f-8033-3fbc2c4f996d",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "denomination": 100
+        },
+        {
+          "denomination_id": "f7c8d91f-1728-4fba-bb8c-ab1e41045c19",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "denomination": 300
+        },
+        {
+          "denomination_id": "6f0bcaf2-d605-4cfb-bd28-7fd6e3f50dc4",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "denomination": 600
+        }
+      ],
+      "available_locations": [
+        {
+          "geo_availability_id": "015ff5ff-6a95-4bc5-8046-58dd211494b0",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 123
+        },
+        {
+          "geo_availability_id": "02a607f1-2870-4c4d-b217-d444e94ca342",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 119
+        },
+        {
+          "geo_availability_id": "0a8c056c-6fe5-4f25-a2de-1bb44f4f7a78",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 122
+        },
+        {
+          "geo_availability_id": "0f4ccbfb-c176-40b6-bf87-6e75865e4af3",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 130
+        },
+        {
+          "geo_availability_id": "16c23d45-040b-4c3f-beb7-e71fcdd8eb48",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 103
+        },
+        {
+          "geo_availability_id": "21423e5e-068b-4212-9e2d-31fb17be5d6c",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 120
+        },
+        {
+          "geo_availability_id": "21b65600-4043-41f5-8251-a20ce2768aa1",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 125
+        },
+        {
+          "geo_availability_id": "22c58e3c-610a-4722-85f9-c438a4483bf3",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 107
+        },
+        {
+          "geo_availability_id": "5316cab7-0919-4ebe-8242-0dffb92308ee",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 128
+        },
+        {
+          "geo_availability_id": "538e4701-4967-4d6b-a40a-2b5b68c79694",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 126
+        },
+        {
+          "geo_availability_id": "53dcf590-32ab-4fc5-8359-afd1978ea4ae",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 110
+        },
+        {
+          "geo_availability_id": "5cac9d98-1d12-404c-855f-79c6e73a5c12",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 105
+        },
+        {
+          "geo_availability_id": "60c53e84-3627-4023-a8ea-c25549cd5687",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 132
+        },
+        {
+          "geo_availability_id": "627ade70-13ae-48fb-b72f-30b440f28aba",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 114
+        },
+        {
+          "geo_availability_id": "6e65fd02-7734-4a34-ad3a-266ff402619c",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 106
+        },
+        {
+          "geo_availability_id": "71c89ea8-d4bf-4b7e-8d02-761c7db4a329",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 108
+        },
+        {
+          "geo_availability_id": "8ddc7081-e1f1-43d3-a4f5-f89cabd1f023",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 101
+        },
+        {
+          "geo_availability_id": "91c18cb4-f3a0-4539-b2ba-f31455d5d1d7",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 127
+        },
+        {
+          "geo_availability_id": "9a694090-ced5-4112-a65f-f9dbc08ac701",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 104
+        },
+        {
+          "geo_availability_id": "ae39dd26-c053-4369-bdd4-eeacb8d5b691",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 131
+        },
+        {
+          "geo_availability_id": "af5d4571-1767-4416-98c8-ffb9fe40cb45",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 118
+        },
+        {
+          "geo_availability_id": "be5c83fa-534b-4fd2-a372-1a164076535d",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 115
+        },
+        {
+          "geo_availability_id": "ca7ba4f7-a934-46fc-9229-b87c0c32e78e",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 117
+        },
+        {
+          "geo_availability_id": "cc3fc118-c91f-45a3-ad01-6a70daada744",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 116
+        },
+        {
+          "geo_availability_id": "cd76281c-de85-4221-a49a-36c16c1c179c",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 102
+        },
+        {
+          "geo_availability_id": "d62be879-79ff-413f-919b-7f4e66251ee4",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 113
+        },
+        {
+          "geo_availability_id": "d700cce1-f7d1-431c-a474-e4c28c8b36dd",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 121
+        },
+        {
+          "geo_availability_id": "db77dc90-e2dd-46be-9730-2523af6957c5",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 109
+        },
+        {
+          "geo_availability_id": "e46757ba-30e4-4d3e-9320-55c4375c212b",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 124
+        },
+        {
+          "geo_availability_id": "e65a2aea-eb89-4483-bc28-80a76732785e",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 112
+        },
+        {
+          "geo_availability_id": "f8154e31-5af8-4516-9569-aa599c4e7bcc",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 129
+        },
+        {
+          "geo_availability_id": "ff20cdd6-065e-426b-afd6-e53c24b41efb",
+          "gift_id": "3b8157bb-a176-46f6-8201-12fb48e242da",
+          "state_id": 111
+        }
+      ],
+      "banners": []
+    },
+    {
+      "gift": {
+        "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+        "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+        "creation_date": "2018-11-08T00:00:00",
+        "category": 3,
+        "supplier": "Inspirum",
+        "brand": "Netflix",
+        "gift_name": "Netflix Card",
+        "description": "Disfruta de Netflix, películas y series en streaming en tu smart TV, consola, PC, Mac, móvil, tableta y más dispositivos.\r\n\r\n1 Punto = $1.00\r\n\r\nDenominaciones Disponibles: 300 y 500 puntos.",
+        "front_cover_url": "https://unefon.blob.core.windows.net/core-media-images/b84c9a9b-0c94-4d7e-bada-42b2b7d722e3.jpg",
+        "back_cover_url": "https://unefon.blob.core.windows.net/core-media-images/87f55268-ac7d-415c-b2a5-873fadce1c97.jpg",
+        "logo_url": "https://unefon.blob.core.windows.net/core-media-images/c33cb0f3-7e6c-4167-b189-5743b3e68236.jpg",
+        "brand_url": "http://netflix.com",
+        "store_url": "http://netflix.com",
+        "available": 1,
+        "instructions": "1. Ingresa a netflix.com/redeem\r\n2. Regístrate o ingresa a tu cuenta\r\n3. Ingresa el código y el saldo se abonará a tu cuenta.",
+        "gift_type": 1,
+        "terms_conditions_url": "https://help.netflix.com/legal/termsofuse",
+        "privacy_advice_url": "https://help.netflix.com/es/legal/privacy"
+      },
+      "denominations": [
+        {
+          "denomination_id": "6ee1c390-d7bb-48e1-8d3b-ecdf46612a42",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "denomination": 300
+        },
+        {
+          "denomination_id": "55fae3bd-7068-4465-bdac-bf5337fb9860",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "denomination": 500
+        }
+      ],
+      "available_locations": [
+        {
+          "geo_availability_id": "10557086-fdce-49da-95c0-3ae47c85ecfe",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 121
+        },
+        {
+          "geo_availability_id": "1b539c57-4cce-4c81-8e13-f91237a30b53",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 103
+        },
+        {
+          "geo_availability_id": "1f03199b-5798-481a-9001-380eb2ea0421",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 128
+        },
+        {
+          "geo_availability_id": "23b11ac9-d74e-458f-94c3-15f2da0125e2",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 129
+        },
+        {
+          "geo_availability_id": "36dc381b-7468-4262-9aa6-0e2d042605f0",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 122
+        },
+        {
+          "geo_availability_id": "3f973d14-704a-4453-80a7-a858dfec493d",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 102
+        },
+        {
+          "geo_availability_id": "40417b72-7468-4c4b-a3f3-2cc2f0633ff9",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 107
+        },
+        {
+          "geo_availability_id": "453b407a-9002-4f4b-bcd6-b34471b7355e",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 108
+        },
+        {
+          "geo_availability_id": "5c5d06bb-dbe7-4957-8b7a-c39214fea51e",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 125
+        },
+        {
+          "geo_availability_id": "729fa42f-f9d4-4901-b948-261b20f9cea1",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 127
+        },
+        {
+          "geo_availability_id": "7f9b30de-30fb-4374-8ab7-9ed092991d04",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 120
+        },
+        {
+          "geo_availability_id": "826df036-faaf-45da-a9a0-46ee8a563908",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 115
+        },
+        {
+          "geo_availability_id": "8c328846-76e7-485b-a184-4d3ecbcc5f13",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 101
+        },
+        {
+          "geo_availability_id": "907a21b9-7ad9-4319-88f5-93bb74b76a9e",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 124
+        },
+        {
+          "geo_availability_id": "966b5d16-4f34-46e6-aff2-16e4ba266678",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 104
+        },
+        {
+          "geo_availability_id": "9ee3ee34-a0b6-4bfb-8c97-c56136a07e12",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 123
+        },
+        {
+          "geo_availability_id": "afa59d40-69ee-4731-931f-c9a4c640ec79",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 114
+        },
+        {
+          "geo_availability_id": "b0947c7c-2250-44ef-8f5d-6cd482fc2ac8",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 126
+        },
+        {
+          "geo_availability_id": "b3c92ea1-28fb-41f3-aae6-ab1712779ec3",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 119
+        },
+        {
+          "geo_availability_id": "b9eca047-8253-44df-8392-754b1c975f73",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 131
+        },
+        {
+          "geo_availability_id": "cd31cf59-36c9-4591-b1b9-12e12300096c",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 110
+        },
+        {
+          "geo_availability_id": "cd516b7e-6231-44d9-9f74-96b152ac6c10",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 112
+        },
+        {
+          "geo_availability_id": "d20c3763-806c-412f-9104-207c76d30182",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 106
+        },
+        {
+          "geo_availability_id": "da93c81d-fd8a-440b-bbe8-620dd2cb2b67",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 111
+        },
+        {
+          "geo_availability_id": "dc594373-ac57-41e7-a190-3124db4dbf14",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 109
+        },
+        {
+          "geo_availability_id": "e360196b-66f6-486c-ac1c-cf276883e8b6",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 117
+        },
+        {
+          "geo_availability_id": "eb573ad1-7789-4c09-9b82-87626358f452",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 113
+        },
+        {
+          "geo_availability_id": "ed6d29c9-93b4-4366-9aaa-77c51e6d2f55",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 105
+        },
+        {
+          "geo_availability_id": "ed80925a-a1ef-4acd-a823-936684ec3031",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 116
+        },
+        {
+          "geo_availability_id": "f2e3b22f-9e76-4894-8eeb-7f4b5cb33186",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 130
+        },
+        {
+          "geo_availability_id": "f3c029ed-309c-4a3e-a20b-a6361cd17d36",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 132
+        },
+        {
+          "geo_availability_id": "fc807efb-5fb5-4499-9410-ac0ea9ed67da",
+          "gift_id": "b5683772-c230-4619-a405-4b32571f5c32",
+          "state_id": 118
+        }
+      ],
+      "banners": []
+    },
+    {
+      "gift": {
+        "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+        "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+        "creation_date": "2019-06-16T00:00:00",
+        "category": 3,
+        "supplier": "Inspirum",
+        "brand": "Cinépolis",
+        "gift_name": "Tarjeta Cinépolis",
+        "description": "Consulta la cartelera, horarios, estrenos, preventas y promociones que tenemos para ti.\r\n\r\n1 Punto = $1.00\r\n\r\nDenominaciones Disponibles: 100, 250 y 500 puntos.",
+        "front_cover_url": "https://unefon.blob.core.windows.net/core-media-images/4b9f83f8-9a3f-4a5e-9866-953f9b558115.jpg",
+        "back_cover_url": "https://unefon.blob.core.windows.net/core-media-images/9e90c71b-8935-4e66-be6d-d25edad2a308.jpg",
+        "logo_url": "https://unefon.blob.core.windows.net/core-media-images/c3c499ae-6dd1-4fd9-946c-950d9f0b212a.jpg",
+        "brand_url": "http://www.cinepolis.com/",
+        "store_url": "http://www.cinepolis.com/",
+        "available": 1,
+        "instructions": "1. El centro de canje se realizará directamente en taquilla de Cinépolis.\r\n2. El código tendrá que canjearse en el punto de venta de la dulcería, en ese momento se entrega el plástico y se activa la tarjeta por 6 meses de vigencia.\r\n3. La vigencia del código es de 3 meses, una vez canjeado por la tarjeta es de 6 meses.",
+        "gift_type": 1,
+        "terms_conditions_url": "https://static.cinepolis.com/resources/mx/documents/terminos-y-condiciones-generales.pdf",
+        "privacy_advice_url": "https://static.cinepolis.com/resources/mx/documents/aviso-de-privacidad-cinepolis.pdf"
+      },
+      "denominations": [
+        {
+          "denomination_id": "e98a44e8-bbe3-4c76-a92e-b4e5bd549a1d",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "denomination": 100
+        },
+        {
+          "denomination_id": "8ed9cd31-9ec9-4a36-a627-02090c6962e3",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "denomination": 250
+        },
+        {
+          "denomination_id": "83a4a896-7d3e-4aec-a2ae-942e1b597a7f",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "denomination": 500
+        }
+      ],
+      "available_locations": [
+        {
+          "geo_availability_id": "15f9404f-2968-4379-9b98-72d1104f8aab",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 131
+        },
+        {
+          "geo_availability_id": "1f84090a-be18-46d5-8199-44060a10159e",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 113
+        },
+        {
+          "geo_availability_id": "287779c4-0184-4150-808a-e8546c1cf3b3",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 101
+        },
+        {
+          "geo_availability_id": "2a5ac603-ce90-4f5e-8859-bfa674debb21",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 116
+        },
+        {
+          "geo_availability_id": "34c9d352-dc71-4f6a-8edb-432a27c57dd0",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 132
+        },
+        {
+          "geo_availability_id": "362719d6-886b-4999-ac4e-6d12bee39983",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 119
+        },
+        {
+          "geo_availability_id": "363d779f-4a5d-4354-b190-7579ad7ae84f",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 115
+        },
+        {
+          "geo_availability_id": "363ec716-1779-43c2-96fe-f7f708c3c957",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 127
+        },
+        {
+          "geo_availability_id": "38a9a4cd-1b17-463f-9702-92e280801a97",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 129
+        },
+        {
+          "geo_availability_id": "3b880fa6-6940-49ab-a184-1dbba8505929",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 103
+        },
+        {
+          "geo_availability_id": "3d82ebbd-b56f-4b28-a4da-fce3ae729056",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 118
+        },
+        {
+          "geo_availability_id": "4ee09d46-ea75-4a04-b08d-635328276dce",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 126
+        },
+        {
+          "geo_availability_id": "4f551385-d70d-4337-a1c6-1e3684798d22",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 112
+        },
+        {
+          "geo_availability_id": "776e7ae7-a0f7-47f3-a933-2ebb5a99f294",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 108
+        },
+        {
+          "geo_availability_id": "8656214e-474a-441e-8924-3c91b993cb0b",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 120
+        },
+        {
+          "geo_availability_id": "8813ff1d-fe10-48ba-ac1e-fb2227e3b65d",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 130
+        },
+        {
+          "geo_availability_id": "93e2d835-5d64-411b-b5dc-5dd9ef63db4b",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 125
+        },
+        {
+          "geo_availability_id": "94584c06-6117-48f0-b352-d1869a5cb18e",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 124
+        },
+        {
+          "geo_availability_id": "978269dc-2281-4771-b22c-e3df455df108",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 111
+        },
+        {
+          "geo_availability_id": "9d203a18-3e25-4cc6-8906-c7c5d60c9612",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 109
+        },
+        {
+          "geo_availability_id": "9f482f81-0a18-4fca-a0d4-bdc338c4a093",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 105
+        },
+        {
+          "geo_availability_id": "aa01ee5e-b116-4890-9089-cffcc3699de0",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 117
+        },
+        {
+          "geo_availability_id": "afc18c84-a5df-4a04-bb29-0c402d0e579b",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 102
+        },
+        {
+          "geo_availability_id": "b6034559-09a3-4ed3-ba75-0124dbf0f019",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 106
+        },
+        {
+          "geo_availability_id": "c6c15359-3eff-4bf7-b9c8-7f591da7d086",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 122
+        },
+        {
+          "geo_availability_id": "dbe67ae8-8021-4d07-9faf-8ad86e3a3ed7",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 110
+        },
+        {
+          "geo_availability_id": "dea2f3da-3fe8-4b0b-8872-3902bbfd0826",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 123
+        },
+        {
+          "geo_availability_id": "ded880c2-229b-48e4-94c4-0d9db2e565a7",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 114
+        },
+        {
+          "geo_availability_id": "df773212-91b3-470d-a818-b0286d214f21",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 128
+        },
+        {
+          "geo_availability_id": "eab58e98-2cc7-47fe-b304-54becd9dfebf",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 107
+        },
+        {
+          "geo_availability_id": "f3b6ad2b-7b76-4f0f-94aa-abdd749fcf9f",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 104
+        },
+        {
+          "geo_availability_id": "f7aed9c8-88aa-48ea-a462-b63cd9d6f63c",
+          "gift_id": "b5eeb1d5-ac5d-44a9-87d0-4fcb44671617",
+          "state_id": 121
+        }
+      ],
+      "banners": []
+    },
+    {
+      "gift": {
+        "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+        "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+        "creation_date": "2019-06-16T00:00:00",
+        "category": 5,
+        "supplier": "Inspirum",
+        "brand": "Best Buy",
+        "gift_name": "Best Buy e-Gift",
+        "description": "Estrena lo último en tecnología, precios bajos en: pantallas, laptops, tablets, celulares, videojuegos, gadgets y miles de artículos electrónicos.\r\n\r\n1 Punto = $1.00\r\n\r\nDenominaciones Disponibles: 250, 500 y 1,000 puntos.",
+        "front_cover_url": "https://unefon.blob.core.windows.net/core-media-images/a573d653-f1fd-4823-b8a6-41082f5058e6.jpg",
+        "back_cover_url": "https://unefon.blob.core.windows.net/core-media-images/420fe75d-1f43-41dd-b690-97498b51797f.jpg",
+        "logo_url": "https://unefon.blob.core.windows.net/core-media-images/5eeebc68-c6eb-47b7-87f2-0bc0850505cb.jpg",
+        "brand_url": "https://www.bestbuy.com.mx",
+        "store_url": "https://www.bestbuy.com.mx",
+        "available": 1,
+        "instructions": "¡Excelente! Para generar tu código de regalo Best Buy solo haz clic en el enlace desde tu Computadora o Laptop (No desde tu Smartphone).\r\n\r\nTe recomendamos que al generar tu código de regalo lo resguardes en un lugar seguro.\r\n\r\nSi deseas canjear tu código en tienda física necesitaras imprimir la pantalla que se muestre al generar tu código.",
+        "gift_type": 3,
+        "terms_conditions_url": "https://www.bestbuy.com.mx/c/terminosycondiciones/s17",
+        "privacy_advice_url": "https://www.bestbuy.com.mx/c/aviso-de-privacidad/s18"
+      },
+      "denominations": [
+        {
+          "denomination_id": "548efb6f-f930-4603-bc84-9e8449d91d81",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "denomination": 250
+        },
+        {
+          "denomination_id": "8394b0da-3ec3-425c-a77c-2c2d778606c4",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "denomination": 500
+        },
+        {
+          "denomination_id": "dbad2378-4b4f-4143-a11b-095da0128246",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "denomination": 1000
+        }
+      ],
+      "available_locations": [
+        {
+          "geo_availability_id": "0fe44d92-a999-40dd-8044-e7197111150c",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 132
+        },
+        {
+          "geo_availability_id": "15b0e861-7dfb-48d4-a1dd-05047075283e",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 116
+        },
+        {
+          "geo_availability_id": "1aa63a38-70bb-4bf0-acbe-fb5942a2c002",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 118
+        },
+        {
+          "geo_availability_id": "1ddcc19a-311f-4a93-84e9-061559f996b3",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 115
+        },
+        {
+          "geo_availability_id": "1f64a1b0-9d0e-4d0e-b582-57a3b7eb7fde",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 131
+        },
+        {
+          "geo_availability_id": "28fbae57-cbf8-41ba-b153-742204f9a6f5",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 123
+        },
+        {
+          "geo_availability_id": "2935621d-3acf-4ff2-8c5f-4dff36c5a1bd",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 104
+        },
+        {
+          "geo_availability_id": "2c621ef9-31be-4f7b-8a55-20659d6a93fc",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 121
+        },
+        {
+          "geo_availability_id": "2f389e56-7b51-447b-9128-348fc980a172",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 101
+        },
+        {
+          "geo_availability_id": "3921633d-a5fd-458f-b5c8-aca873880167",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 119
+        },
+        {
+          "geo_availability_id": "42188970-e4f0-44e3-b6b8-0b69b8d938f4",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 125
+        },
+        {
+          "geo_availability_id": "451fa9da-4b76-4015-b64e-1b59e9a1c445",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 122
+        },
+        {
+          "geo_availability_id": "47cf3233-707a-4d0e-a20c-8484ba4f2552",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 106
+        },
+        {
+          "geo_availability_id": "5fab703c-84e3-4799-900d-40a1d2feeab9",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 107
+        },
+        {
+          "geo_availability_id": "645b02cc-e447-425f-b7a6-13475b76144d",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 117
+        },
+        {
+          "geo_availability_id": "743e3e05-c675-4da9-9f2f-8ac8f9aa577f",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 103
+        },
+        {
+          "geo_availability_id": "7f743ecf-71f5-4554-8f3e-d9aa02abb460",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 109
+        },
+        {
+          "geo_availability_id": "834bda98-9481-45bc-92ad-bcb2645a1490",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 110
+        },
+        {
+          "geo_availability_id": "839506fc-199f-4e0b-9f86-5119dd500f03",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 105
+        },
+        {
+          "geo_availability_id": "95afd929-2302-488d-aa3e-bf712b23a75c",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 126
+        },
+        {
+          "geo_availability_id": "9a3af3c5-051b-482f-9d4c-77371f576094",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 114
+        },
+        {
+          "geo_availability_id": "a33e824b-7151-449c-aeb4-ff64a02d4554",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 128
+        },
+        {
+          "geo_availability_id": "a3f6ec93-af4e-4df3-b406-2ad7f2963427",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 111
+        },
+        {
+          "geo_availability_id": "bac3b545-df8e-45b8-ad01-ea2c2a8cd7c4",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 113
+        },
+        {
+          "geo_availability_id": "c8074ea7-2052-46fa-b285-5c1397779792",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 127
+        },
+        {
+          "geo_availability_id": "d545c41d-d43d-4892-a35c-03e0e44010cc",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 112
+        },
+        {
+          "geo_availability_id": "e213d73e-bf1f-4d7e-89db-c28ff34d72ab",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 108
+        },
+        {
+          "geo_availability_id": "e3b31812-3709-4e8e-9b1f-f23f80528060",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 120
+        },
+        {
+          "geo_availability_id": "e6967bc3-8ff5-47b5-814d-e0ce8fd10d25",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 102
+        },
+        {
+          "geo_availability_id": "e92fe7f8-e6fe-4726-bc60-68c0de1e7a6b",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 124
+        },
+        {
+          "geo_availability_id": "eb3906ac-952b-47b2-abab-e66e8af9c96f",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 130
+        },
+        {
+          "geo_availability_id": "ec3b1565-c7bf-41a2-82a2-39c90310dec5",
+          "gift_id": "df0166aa-9420-441f-9133-303ead7aaedf",
+          "state_id": 129
+        }
+      ],
+      "banners": []
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "internal_code": 0,
+  "message": "Los lugares de trabajo fueron recuperados exitosamente.",
+  "response_object": [
+    {
+      "workplace_id": "103447",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "ADRIANA MARITZA LOMELY GARCIA",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106314",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "AF MOVILES SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106455",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "ANIBAL EDMUNDO CALLEJAS PALACIOS",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106315",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "AVEN COMUNICACION SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103470",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "BERENICE ALEJANDRA AGUILAR DIAZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103305",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "BERNABE ALEJANDRO MARQUEZ GUZMAN",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106280",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "BR COMUNICACIONES S DE RL DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106447",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "BYG ASESORES PROFESIONALES EN PROMOCION SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106240",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "CAB COMUNICACIONES SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103130",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "CELIA OROZCO ARELLANO",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106312",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "CELULAR ACCESS SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106336",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "CELULAR SOFT S DE RL DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 1,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "101317",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "CESAR ALEJANDRO TORRES FREGOSO",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106217",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMERCIALIZADORA AXNE SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106157",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMERCIALIZADORA DE CELULARES Y ACCESORIOS MC SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106233",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMERCIALIZADORA EN COMUNICACION MOVIL SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103070",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMERCIALIZADORA JAAOREKS SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106504",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMERCIALIZADORA MAXXUM SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106340",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMERCIALIZADORA MOVIL CALIN SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106260",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMERCIALIZADORA RAXA SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106505",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMERCIALIZADORA STAFF EN VOZ Y REDES SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106317",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMIN GOLFO SUR SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106335",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMUNICACION INTERNACIONAL A Y A SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106236",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "COMUNICACIONES T1000 SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106287",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "CONEXION Y DISTRIBUCION DEL GOLFO SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106368",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "CONTACT PEOPLE SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106281",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "CRUZ CRUZ ZACACALCO SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103247",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "DAMTEL SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106424",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "DELCABS COMUNICACION SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "100239",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "DIESTEL SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106476",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "DIGOMOVIL SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103475",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "DIONISIO DE LA CRUZ QUINTO",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106279",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "DISTRIBUIDOR CELULAR DE LA ZONA CENTRO SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106417",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "DISTRIBUIDORA GAMEXPRESS SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106274",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "DISTRIBUIDORA TRYCK SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106402",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "DISTRIBUIDORA VEGACELL SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106393",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "E MOVIL SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106453",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "EFEPECA MEXICO S DE RL DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106551",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "EGAM DIGITAL SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106437",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "ENLACE SHOP SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106273",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "G2 TELECOM SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 1,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "101179",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "GEORGINA MALDONADO SALAS",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106516",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "GRUPO BAEVI SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106262",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "GRUPO COMERCIAL YAAVS S DE RL DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106545",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "GS MOVILES SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106525",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "H-A MOBIL SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106215",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "HANDY FIRMA SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106392",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "HASBAI AND BUSINESS",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106324",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "HASHTAG TECHNOLOGIES SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103037",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "HF COMUNICACION CELULAR SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103354",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "HUGO TELLEZ OLMOS",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106435",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "IRECOM GRUPO CORPORATIVO SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106480",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "JONATHAN JOAN LOPEZ CASTRO",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "101235",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "JOSE DOMINGO ZELENY BAEZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103313",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "JOSE MANUEL CERDA CASTANEDA",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103425",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "JOSE OMAR GUZMAN DIAZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103443",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "LEADIM RACHEL RAMIREZ SANCHEZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106283",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "LEIPHONE DE MEXICO SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103474",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "LUIS FERNANDO VALDES CARRILLO",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103367",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "MANUEL COSGAYA RODRIGUEZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103440",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "MARCO ANTONIO CISNEROS SANCHEZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106449",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "MARCO ANTONIO MARIN HERNANDEZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103298",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "MARIA DEL ROCIO ESTRADA ALVAREZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103456",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "MARIA GUADALUPE FUENTES VELAZCO",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106529",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "MARIA MARIBEL MARTINEZ COLMENERO",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106426",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "MARNA IMAGEN CREATIVA SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106198",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "METROPOLI CELULAR SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106303",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "MUNDO VISUAL OFTALMOLOGICO SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106425",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "MVS CELLULAR SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103495",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "NANCY GABRIELA DIAZ RIVERA",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106419",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "OCC COMUNICACIONES S DE RL DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103450",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "PATRICIA SOLEDAD MARTINA LOPEZ MARTINEZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106410",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "PRIVATE SECURITY PLACE SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103471",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "RAUL HERNANDEZ GARCIA",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103460",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "RIGOBERTO BECERRA GONZALEZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106222",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "ROMATEC SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106478",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "RUBEN DARINEL SOLIS HERNANDEZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106488",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "SARAI SUSANA PORTILLO JASSO",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103335",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "SUSANA GUZMAN FERNANDEZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106401",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "TA3 SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106474",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "TECH CONNECTA SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103455",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "TECNOLOGIAS Y COMUNICACIONES DEL CENTRO SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106452",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "TELECOM CONSULTING GROUP SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106189",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "TOTAL SOLUTIONS DE MEXICO SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "101010",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "UNEFON",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 1,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106227",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "UNESMART SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106431",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "VAM MOBILES SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "103083",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "VICTOR HUGO ORTIZ LOPEZ",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106258",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "WIRELESS MOBILE SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    },
+    {
+      "workplace_id": "106418",
+      "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+      "workplace_name": "WORDCELL SA DE CV",
+      "address": "-",
+      "state_id": 109,
+      "country_id": 0,
+      "accumulated_points": 0,
+      "workplace_type": "faf0ab3e-f1e4-4352-ac27-a97dc1469073"
+    }
+  ]
+}

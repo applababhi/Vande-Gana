@@ -1,0 +1,74 @@
+{
+  "internal_code": 0,
+  "message": "Quick Guide was successfully retrieved.",
+  "response_object": {
+    "kpi": 1000,
+    "ranges": [
+      {
+        "range_description": "De 90% a 110%",
+        "points": 800,
+        "points_str": "800"
+      },
+      {
+        "range_description": "De 110% 130%",
+        "points": 850,
+        "points_str": "850"
+      },
+      {
+        "range_description": "De 130% en adelante",
+        "points": 1050,
+        "points_str": "1,050"
+      }
+    ],
+    "rules": [
+      "El plan de incentivos tiene una vigencia del 1 al 30 de junio de 2019.",
+      "Desde la primera activación comienzas a generar puntos para obtener monederos electrónicos.",
+      "Debes cumplir con un mínimo del 90% de tu cuota Unefon para poder utilizar tus puntos.",
+      "Al cumplir tu cuota al 100% obtendrás increíbles recompensas, dependiendo de tu desempeño.",
+      "Los puntos tienen vigencia de 60 días.",
+      "Debes cumplir con con el promedio de los últimos 3 meses de tu logro de AT&T.",
+      "Participarán todos los distribuidores con cuota Unefon."
+    ],
+    "tutorials": [
+      {
+        "tutorial_id": "68a56d19-3bdc-46be-b957-0c8472285924",
+        "creation_date": "2019-06-19T08:17:01.157",
+        "title": "Inicio de Sesión y Dashboard",
+        "content": "En este video conocerás cómo iniciar sesión y la estructura del dashboard.",
+        "video_url": "https://www.youtube.com/embed/dnGHV-sp0oQ",
+        "channel": "YouTube"
+      },
+      {
+        "tutorial_id": "75a3218f-c4ac-4e4d-920d-90b9a81c7496",
+        "creation_date": "2019-06-19T07:59:03.97",
+        "title": "¿Cómo registrarte?",
+        "content": "En este tutorial conocerás cómo registrarte en \"Vende y Gana con Unefon\".",
+        "video_url": "https://www.youtube.com/embed/bAtfR9mUZ1M",
+        "channel": "YouTube"
+      },
+      {
+        "tutorial_id": "d80038b1-ad5d-4dba-aa9d-e7af0e48ad35",
+        "creation_date": "2019-06-19T08:01:35.67",
+        "title": "¿Cómo recuperar tu contraseña?",
+        "content": "En este tutorial aprenderás cómo recuperar la contraseña de tu cuenta en la plataforma \"Vende y Gana con Unefon\".",
+        "video_url": "https://www.youtube.com/embed/bCE_Q5_nnLY",
+        "channel": "YouTube"
+      },
+      {
+        "tutorial_id": "f94bf998-537f-4f7b-8127-db2858e10389",
+        "creation_date": "2019-07-12T13:13:48.343",
+        "title": "Cómo canjear tus puntos",
+        "content": "En este video aprenderás cómo canjear tus puntos obtenidos.",
+        "video_url": "https://www.youtube.com/embed/UalCadA7qmk",
+        "channel": "YouTube"
+      }
+    ],
+    "promotions": [],
+    "plan_period": {
+      "initial_date": "2019-01-01T00:00:00",
+      "final_date": "2019-12-31T00:00:00",
+      "period_str": "Del 1 de Enero de 2019 al 31 de Diciembre de 2019."
+    },
+    "general_objective": "Vende y gana con Unefon es muy sencillo. Tu objetivo es alcanzar tu cuota mensual. Recuerda que para poder canjear tus puntos es necesario que alcances al menos el 90% de tu cuota. Dependiendo del porcentaje de tu alcance es el monto que puedes canjear."
+  }
+}

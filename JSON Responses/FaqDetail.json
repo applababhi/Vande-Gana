@@ -1,0 +1,26 @@
+{
+  "internal_code": 0,
+  "message": "Post was successfully collected.",
+  "response_object": {
+    "post": {
+      "post_id": "8570dd01-a5ed-4815-a172-7568a91f80a5",
+      "title": "puntos",
+      "signature": "Por Adriana Maritza Lomely el 2 de Julio de 2019 @ 09:26 (ADRIANA MARITZA LOMELY GARCIA)",
+      "content": "Como y cuando puedo cambiar mis puntos? ",
+      "profile_picture_url": "https://unefon.blob.core.windows.net/core-media-images/3fc5df13-c638-4c16-8676-f82aa004d8a5_th.jpg",
+      "can_mark_solution": 1,
+      "active_status": 1
+    },
+    "replies": [
+      {
+        "reply_id": "a2921047-48bc-453b-b817-450a8918b70e",
+        "content": "hello!",
+        "signature": "Por Ricardo Zepeda el 22 de Julio de 2019 @ 09:26 (COMERCIALIZADORA JAAOREKS SA DE CV)",
+        "score_str": "0",
+        "score": 1000000,
+        "is_solution": 1,
+        "can_vote": 1
+      }
+    ]
+  }
+}

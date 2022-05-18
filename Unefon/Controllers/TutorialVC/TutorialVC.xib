@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14868" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14824"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="OpenSans-SemiBold.ttf">
+            <string>OpenSans-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TutorialVC" customModule="Unefon" customModuleProvider="target">
+            <connections>
+                <outlet property="baseView" destination="sKI-Tw-kPH" id="iL0-Yw-jT2"/>
+                <outlet property="c_TopBar_Ht" destination="UCT-BP-sOw" id="vYO-2E-nwm"/>
+                <outlet property="lblTitle" destination="mEX-EI-NnF" id="LaH-6Z-vr9"/>
+                <outlet property="view" destination="iN0-l3-epB" id="88J-gw-NlW"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Gj8-ud-igP">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="70"/>
+                    <subviews>
+                        <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="TITLE" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mEX-EI-NnF">
+                            <rect key="frame" x="62" y="10" width="313" height="60"/>
+                            <fontDescription key="fontDescription" name="OpenSans-SemiBold" family="Open Sans SemiBold" pointSize="20"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="drU-xM-vtP">
+                            <rect key="frame" x="0.0" y="10" width="60" height="60"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="60" id="DUc-UH-vXY"/>
+                                <constraint firstAttribute="width" constant="60" id="EC3-yn-aOL"/>
+                            </constraints>
+                            <state key="normal" image="LArrow"/>
+                            <connections>
+                                <action selector="backClickedWithBtn:" destination="-1" eventType="touchUpInside" id="NGQ-Ib-Ieg"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="mEX-EI-NnF" firstAttribute="centerY" secondItem="drU-xM-vtP" secondAttribute="centerY" id="62M-dK-7k4"/>
+                        <constraint firstAttribute="trailing" secondItem="mEX-EI-NnF" secondAttribute="trailing" id="DzU-Fh-zp4"/>
+                        <constraint firstItem="mEX-EI-NnF" firstAttribute="leading" secondItem="drU-xM-vtP" secondAttribute="trailing" constant="2" id="I3y-8d-8Gw"/>
+                        <constraint firstAttribute="height" constant="70" id="UCT-BP-sOw"/>
+                        <constraint firstAttribute="bottom" secondItem="drU-xM-vtP" secondAttribute="bottom" id="WKt-iV-jAD"/>
+                        <constraint firstItem="drU-xM-vtP" firstAttribute="leading" secondItem="Gj8-ud-igP" secondAttribute="leading" id="e2v-Kp-Ia2"/>
+                        <constraint firstItem="mEX-EI-NnF" firstAttribute="height" secondItem="drU-xM-vtP" secondAttribute="height" id="hw1-rJ-flO"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sKI-Tw-kPH">
+                    <rect key="frame" x="0.0" y="74" width="375" height="593"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="sKI-Tw-kPH" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" id="73f-U5-IrU"/>
+                <constraint firstItem="Gj8-ud-igP" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="CPA-i7-KJe"/>
+                <constraint firstItem="Gj8-ud-igP" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="N61-29-9S5"/>
+                <constraint firstItem="sKI-Tw-kPH" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="SeL-n7-ocb"/>
+                <constraint firstItem="sKI-Tw-kPH" firstAttribute="top" secondItem="Gj8-ud-igP" secondAttribute="bottom" constant="4" id="TEF-RP-4TJ"/>
+                <constraint firstItem="sKI-Tw-kPH" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="htB-eB-eJ5"/>
+                <constraint firstItem="Gj8-ud-igP" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="k2a-8I-rzV"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <point key="canvasLocation" x="53.600000000000001" y="48.125937031484263"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="LArrow" width="25" height="25"/>
+    </resources>
+</document>

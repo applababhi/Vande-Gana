@@ -1,0 +1,17 @@
+{
+  "internal_code": 0,
+  "message": "Posts were successfully collected.",
+  "response_object": {
+    "general_posts": [
+      {
+        "post_id": "8570dd01-a5ed-4815-a172-7568a91f80a5",
+        "title": "puntos",
+        "replies_str": "1 respuesta",
+        "post_date": "2019-07-02T09:26:57.74",
+        "post_date_str": "2 de Julio de 2019 @ 09:26",
+        "content_preview": "Como y cuando puedo cambiar mis puntos? "
+      }
+    ],
+    "own_posts": []
+  }
+}

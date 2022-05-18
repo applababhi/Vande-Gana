@@ -1,0 +1,555 @@
+{
+  "internal_code": 0,
+  "message": "User's balance was successfully generated.",
+  "response_object": {
+    "user_registered_sales_quantity_str": "362",
+    "kpis_str": "1,000",
+    "performance_str": "36.20 %",
+    "user_registered_sales_points_str": "272",
+    "user_registered_sales_quantity": 362,
+    "kpis": 1000,
+    "performance": 0.362,
+    "uuid": "9b374108-b555-480d-b272-a85e44228d45",
+    "transactions": [],
+    "balance": 0,
+    "spent_points": 0,
+    "earned_points": 0,
+    "user_registered_sales_points": 272,
+    "user_registered_sales_details": [
+      {
+        "month": 7,
+        "year": 2019,
+        "total_points": 272,
+        "actions_list": [
+          {
+            "date": "2019-07-08T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 22 unidades (Producto SIM).",
+            "obtained_points": 17,
+            "sold_units": 22,
+            "weight": 0.0607734806629834,
+            "obtained_points_str": "17.00",
+            "date_str": "Julio 8, 2019"
+          },
+          {
+            "date": "2019-07-02T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 33 unidades (Producto SIM).",
+            "obtained_points": 25,
+            "sold_units": 33,
+            "weight": 0.0911602209944751,
+            "obtained_points_str": "25.00",
+            "date_str": "Julio 2, 2019"
+          },
+          {
+            "date": "2019-07-06T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 18 unidades (Producto SIM).",
+            "obtained_points": 14,
+            "sold_units": 18,
+            "weight": 0.0497237569060773,
+            "obtained_points_str": "14.00",
+            "date_str": "Julio 6, 2019"
+          },
+          {
+            "date": "2019-07-09T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 26 unidades (Producto SIM).",
+            "obtained_points": 20,
+            "sold_units": 26,
+            "weight": 0.0718232044198895,
+            "obtained_points_str": "20.00",
+            "date_str": "Julio 9, 2019"
+          },
+          {
+            "date": "2019-07-07T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 9 unidades (Producto SIM).",
+            "obtained_points": 7,
+            "sold_units": 9,
+            "weight": 0.0248618784530387,
+            "obtained_points_str": "7.00",
+            "date_str": "Julio 7, 2019"
+          },
+          {
+            "date": "2019-07-01T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 35 unidades (Producto SIM).",
+            "obtained_points": 26,
+            "sold_units": 35,
+            "weight": 0.0966850828729282,
+            "obtained_points_str": "26.00",
+            "date_str": "Julio 1, 2019"
+          },
+          {
+            "date": "2019-07-04T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 26 unidades (Producto SIM).",
+            "obtained_points": 20,
+            "sold_units": 26,
+            "weight": 0.0718232044198895,
+            "obtained_points_str": "20.00",
+            "date_str": "Julio 4, 2019"
+          },
+          {
+            "date": "2019-07-03T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 82 unidades (Producto SIM).",
+            "obtained_points": 62,
+            "sold_units": 82,
+            "weight": 0.226519337016575,
+            "obtained_points_str": "62.00",
+            "date_str": "Julio 3, 2019"
+          },
+          {
+            "date": "2019-07-05T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 38 unidades (Producto SIM).",
+            "obtained_points": 29,
+            "sold_units": 38,
+            "weight": 0.104972375690608,
+            "obtained_points_str": "29.00",
+            "date_str": "Julio 5, 2019"
+          },
+          {
+            "date": "2019-07-10T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 26 unidades (Producto SIM).",
+            "obtained_points": 20,
+            "sold_units": 26,
+            "weight": 0.0718232044198895,
+            "obtained_points_str": "20.00",
+            "date_str": "Julio 10, 2019"
+          },
+          {
+            "date": "2019-07-11T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 47 unidades (Producto SIM).",
+            "obtained_points": 35,
+            "sold_units": 47,
+            "weight": 0.129834254143646,
+            "obtained_points_str": "35.00",
+            "date_str": "Julio 11, 2019"
+          }
+        ],
+        "initial_date": "2019-07-01T00:00:00",
+        "final_date": "2019-07-31T00:00:00",
+        "performance": 0.362,
+        "total_sales_quantity": 362,
+        "actions": [
+          {
+            "date": "2019-07-11T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 47 unidades (Producto SIM).",
+            "obtained_points": 35,
+            "sold_units": 47,
+            "weight": 0.129834254143646,
+            "obtained_points_str": "35.00",
+            "date_str": "Julio 11, 2019"
+          },
+          {
+            "date": "2019-07-10T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 26 unidades (Producto SIM).",
+            "obtained_points": 20,
+            "sold_units": 26,
+            "weight": 0.0718232044198895,
+            "obtained_points_str": "20.00",
+            "date_str": "Julio 10, 2019"
+          },
+          {
+            "date": "2019-07-09T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 26 unidades (Producto SIM).",
+            "obtained_points": 20,
+            "sold_units": 26,
+            "weight": 0.0718232044198895,
+            "obtained_points_str": "20.00",
+            "date_str": "Julio 9, 2019"
+          },
+          {
+            "date": "2019-07-08T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 22 unidades (Producto SIM).",
+            "obtained_points": 17,
+            "sold_units": 22,
+            "weight": 0.0607734806629834,
+            "obtained_points_str": "17.00",
+            "date_str": "Julio 8, 2019"
+          },
+          {
+            "date": "2019-07-07T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 9 unidades (Producto SIM).",
+            "obtained_points": 7,
+            "sold_units": 9,
+            "weight": 0.0248618784530387,
+            "obtained_points_str": "7.00",
+            "date_str": "Julio 7, 2019"
+          },
+          {
+            "date": "2019-07-06T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 18 unidades (Producto SIM).",
+            "obtained_points": 14,
+            "sold_units": 18,
+            "weight": 0.0497237569060773,
+            "obtained_points_str": "14.00",
+            "date_str": "Julio 6, 2019"
+          },
+          {
+            "date": "2019-07-05T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 38 unidades (Producto SIM).",
+            "obtained_points": 29,
+            "sold_units": 38,
+            "weight": 0.104972375690608,
+            "obtained_points_str": "29.00",
+            "date_str": "Julio 5, 2019"
+          },
+          {
+            "date": "2019-07-04T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 26 unidades (Producto SIM).",
+            "obtained_points": 20,
+            "sold_units": 26,
+            "weight": 0.0718232044198895,
+            "obtained_points_str": "20.00",
+            "date_str": "Julio 4, 2019"
+          },
+          {
+            "date": "2019-07-03T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 82 unidades (Producto SIM).",
+            "obtained_points": 62,
+            "sold_units": 82,
+            "weight": 0.226519337016575,
+            "obtained_points_str": "62.00",
+            "date_str": "Julio 3, 2019"
+          },
+          {
+            "date": "2019-07-02T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 33 unidades (Producto SIM).",
+            "obtained_points": 25,
+            "sold_units": 33,
+            "weight": 0.0911602209944751,
+            "obtained_points_str": "25.00",
+            "date_str": "Julio 2, 2019"
+          },
+          {
+            "date": "2019-07-01T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 35 unidades (Producto SIM).",
+            "obtained_points": 26,
+            "sold_units": 35,
+            "weight": 0.0966850828729282,
+            "obtained_points_str": "26.00",
+            "date_str": "Julio 1, 2019"
+          }
+        ],
+        "period_str": "Del 1 de Julio de 2019 al 31 de Julio de 2019",
+        "month_str": "Julio",
+        "total_points_str": "272.00"
+      },
+      {
+        "month": 6,
+        "year": 2019,
+        "total_points": 487,
+        "actions_list": [
+          {
+            "date": "2019-06-22T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 10 unidades (Producto SIM).",
+            "obtained_points": 8,
+            "sold_units": 10,
+            "weight": 0.0154320987654321,
+            "obtained_points_str": "8.00",
+            "date_str": "Junio 22, 2019"
+          },
+          {
+            "date": "2019-06-27T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 20 unidades (Producto SIM).",
+            "obtained_points": 15,
+            "sold_units": 20,
+            "weight": 0.0308641975308642,
+            "obtained_points_str": "15.00",
+            "date_str": "Junio 27, 2019"
+          },
+          {
+            "date": "2019-06-28T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 30 unidades (Producto SIM).",
+            "obtained_points": 23,
+            "sold_units": 30,
+            "weight": 0.0462962962962963,
+            "obtained_points_str": "23.00",
+            "date_str": "Junio 28, 2019"
+          },
+          {
+            "date": "2019-06-29T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 23 unidades (Producto SIM).",
+            "obtained_points": 17,
+            "sold_units": 23,
+            "weight": 0.0354938271604938,
+            "obtained_points_str": "17.00",
+            "date_str": "Junio 29, 2019"
+          },
+          {
+            "date": "2019-06-19T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 18 unidades (Producto SIM).",
+            "obtained_points": 14,
+            "sold_units": 18,
+            "weight": 0.0277777777777778,
+            "obtained_points_str": "14.00",
+            "date_str": "Junio 19, 2019"
+          },
+          {
+            "date": "2019-06-25T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 53 unidades (Producto SIM).",
+            "obtained_points": 40,
+            "sold_units": 53,
+            "weight": 0.0817901234567901,
+            "obtained_points_str": "40.00",
+            "date_str": "Junio 25, 2019"
+          },
+          {
+            "date": "2019-06-23T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 9 unidades (Producto SIM).",
+            "obtained_points": 7,
+            "sold_units": 9,
+            "weight": 0.0138888888888889,
+            "obtained_points_str": "7.00",
+            "date_str": "Junio 23, 2019"
+          },
+          {
+            "date": "2019-06-17T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 348 unidades (Producto SIM).",
+            "obtained_points": 262,
+            "sold_units": 348,
+            "weight": 0.537037037037037,
+            "obtained_points_str": "262.00",
+            "date_str": "Junio 17, 2019"
+          },
+          {
+            "date": "2019-06-20T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 16 unidades (Producto SIM).",
+            "obtained_points": 12,
+            "sold_units": 16,
+            "weight": 0.0246913580246914,
+            "obtained_points_str": "12.00",
+            "date_str": "Junio 20, 2019"
+          },
+          {
+            "date": "2019-06-26T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 30 unidades (Producto SIM).",
+            "obtained_points": 23,
+            "sold_units": 30,
+            "weight": 0.0462962962962963,
+            "obtained_points_str": "23.00",
+            "date_str": "Junio 26, 2019"
+          },
+          {
+            "date": "2019-06-21T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 26 unidades (Producto SIM).",
+            "obtained_points": 20,
+            "sold_units": 26,
+            "weight": 0.0401234567901235,
+            "obtained_points_str": "20.00",
+            "date_str": "Junio 21, 2019"
+          },
+          {
+            "date": "2019-06-18T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 24 unidades (Producto SIM).",
+            "obtained_points": 18,
+            "sold_units": 24,
+            "weight": 0.037037037037037,
+            "obtained_points_str": "18.00",
+            "date_str": "Junio 18, 2019"
+          },
+          {
+            "date": "2019-06-24T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 35 unidades (Producto SIM).",
+            "obtained_points": 26,
+            "sold_units": 35,
+            "weight": 0.0540123456790123,
+            "obtained_points_str": "26.00",
+            "date_str": "Junio 24, 2019"
+          },
+          {
+            "date": "2019-06-30T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 6 unidades (Producto SIM).",
+            "obtained_points": 5,
+            "sold_units": 6,
+            "weight": 0.00925925925925926,
+            "obtained_points_str": "5.00",
+            "date_str": "Junio 30, 2019"
+          }
+        ],
+        "initial_date": "2019-06-01T00:00:00",
+        "final_date": "2019-06-30T00:00:00",
+        "performance": 0.648,
+        "total_sales_quantity": 648,
+        "actions": [
+          {
+            "date": "2019-06-30T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 6 unidades (Producto SIM).",
+            "obtained_points": 5,
+            "sold_units": 6,
+            "weight": 0.00925925925925926,
+            "obtained_points_str": "5.00",
+            "date_str": "Junio 30, 2019"
+          },
+          {
+            "date": "2019-06-29T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 23 unidades (Producto SIM).",
+            "obtained_points": 17,
+            "sold_units": 23,
+            "weight": 0.0354938271604938,
+            "obtained_points_str": "17.00",
+            "date_str": "Junio 29, 2019"
+          },
+          {
+            "date": "2019-06-28T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 30 unidades (Producto SIM).",
+            "obtained_points": 23,
+            "sold_units": 30,
+            "weight": 0.0462962962962963,
+            "obtained_points_str": "23.00",
+            "date_str": "Junio 28, 2019"
+          },
+          {
+            "date": "2019-06-27T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 20 unidades (Producto SIM).",
+            "obtained_points": 15,
+            "sold_units": 20,
+            "weight": 0.0308641975308642,
+            "obtained_points_str": "15.00",
+            "date_str": "Junio 27, 2019"
+          },
+          {
+            "date": "2019-06-26T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 30 unidades (Producto SIM).",
+            "obtained_points": 23,
+            "sold_units": 30,
+            "weight": 0.0462962962962963,
+            "obtained_points_str": "23.00",
+            "date_str": "Junio 26, 2019"
+          },
+          {
+            "date": "2019-06-25T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 53 unidades (Producto SIM).",
+            "obtained_points": 40,
+            "sold_units": 53,
+            "weight": 0.0817901234567901,
+            "obtained_points_str": "40.00",
+            "date_str": "Junio 25, 2019"
+          },
+          {
+            "date": "2019-06-24T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 35 unidades (Producto SIM).",
+            "obtained_points": 26,
+            "sold_units": 35,
+            "weight": 0.0540123456790123,
+            "obtained_points_str": "26.00",
+            "date_str": "Junio 24, 2019"
+          },
+          {
+            "date": "2019-06-23T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 9 unidades (Producto SIM).",
+            "obtained_points": 7,
+            "sold_units": 9,
+            "weight": 0.0138888888888889,
+            "obtained_points_str": "7.00",
+            "date_str": "Junio 23, 2019"
+          },
+          {
+            "date": "2019-06-22T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 10 unidades (Producto SIM).",
+            "obtained_points": 8,
+            "sold_units": 10,
+            "weight": 0.0154320987654321,
+            "obtained_points_str": "8.00",
+            "date_str": "Junio 22, 2019"
+          },
+          {
+            "date": "2019-06-21T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 26 unidades (Producto SIM).",
+            "obtained_points": 20,
+            "sold_units": 26,
+            "weight": 0.0401234567901235,
+            "obtained_points_str": "20.00",
+            "date_str": "Junio 21, 2019"
+          },
+          {
+            "date": "2019-06-20T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 16 unidades (Producto SIM).",
+            "obtained_points": 12,
+            "sold_units": 16,
+            "weight": 0.0246913580246914,
+            "obtained_points_str": "12.00",
+            "date_str": "Junio 20, 2019"
+          },
+          {
+            "date": "2019-06-19T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 18 unidades (Producto SIM).",
+            "obtained_points": 14,
+            "sold_units": 18,
+            "weight": 0.0277777777777778,
+            "obtained_points_str": "14.00",
+            "date_str": "Junio 19, 2019"
+          },
+          {
+            "date": "2019-06-18T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 24 unidades (Producto SIM).",
+            "obtained_points": 18,
+            "sold_units": 24,
+            "weight": 0.037037037037037,
+            "obtained_points_str": "18.00",
+            "date_str": "Junio 18, 2019"
+          },
+          {
+            "date": "2019-06-17T00:00:00",
+            "concept": "Ventas",
+            "description": "Venta de 348 unidades (Producto SIM).",
+            "obtained_points": 262,
+            "sold_units": 348,
+            "weight": 0.537037037037037,
+            "obtained_points_str": "262.00",
+            "date_str": "Junio 17, 2019"
+          }
+        ],
+        "period_str": "Del 1 de Junio de 2019 al 30 de Junio de 2019",
+        "month_str": "Junio",
+        "total_points_str": "487.00"
+      }
+    ],
+    "message": "Recuerda que únicamente podrás recibir tus puntos si alcanzas al menos el 90% de tu cuota.",
+    "period": "Del 1 al 11 de Julio de 2019"
+  }
+}

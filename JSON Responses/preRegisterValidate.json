@@ -1,0 +1,31 @@
+{
+  "internal_code": 0,
+  "message": "User pre-registration summary was successfully generated.",
+  "response_object": {
+    "available_campaigns": [
+      {
+        "campaign_id": "faf0ab3e-f1e4-4352-ac27-a97dc1469073",
+        "creation_date": "2019-06-08T08:36:07.517",
+        "admin_id": "0d36ab0c-b162-4319-bad5-36ba2fca22f6",
+        "campaign_name": "REGULAR",
+        "general_minimum_sales": 0,
+        "calculation_criteria": 1,
+        "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+        "allow_non_participant_products": 0,
+        "general_minimum_points": 0
+      }
+    ],
+    "campaign_title": "Campaña",
+    "campaign_description": "Selecciona el tipo de CAC al que pertences.",
+    "uuid": "423f412d-c9a9-44b4-8ab9-f6392982c29a",
+    "plan_id": "3ddd4b79-e0f4-435f-947c-c272ec6c78e2",
+    "company_id": "100100",
+    "is_pre_registered": 1,
+    "is_registered": 0,
+    "workplace_id": "101010",
+    "state_id": 109,
+    "campaign_id": "faf0ab3e-f1e4-4352-ac27-a97dc1469073",
+    "require_profile_picture": 1,
+    "require_badge_picture": 0
+  }
+}

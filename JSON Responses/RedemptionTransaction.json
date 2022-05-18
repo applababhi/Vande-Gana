@@ -1,0 +1,66 @@
+{
+  "internal_code": 0,
+  "message": "Redemption was successfully retrieved.",
+  "response_object": {
+    "redemption": {
+      "redemption_id": "aa079ad7-458f-45a9-bd76-35b0e7b22af8",
+      "redemption_date": "2019-07-10T09:45:32.887",
+      "uuid": "055c4b28-7010-4475-a314-8b152bb6590b",
+      "type": 1,
+      "status": 0,
+      "code_id": "",
+      "paypal_transaction_id": "",
+      "description": "Redención a través de la adquisición de regalo Starbucks Card de Starbucks.\r\n\tMarca: Starbucks\r\n\tRegalo: Starbucks Card\r\n\tFecha de Solicitud: 10 de Julio de 2019 @ 09:45\r\n",
+      "points": 100,
+      "code_request_id": "40ff5509-273f-4030-ae64-94d53a61fcbe",
+      "payment_request_id": ""
+    },
+    "code": {
+      "code_request_id": "40ff5509-273f-4030-ae64-94d53a61fcbe",
+      "request_date": "2019-07-10T09:45:32.87",
+      "delivery_date": "0001-01-01T00:00:00",
+      "brand": "Starbucks",
+      "gift_name": "Starbucks Card",
+      "status": 0,
+      "denomination": 100,
+      "code_content": "",
+      "denomination_str": "100.00",
+      "delivery_date_str": "Por activar.",
+      "request_date_str": "10 de Julio de 2019 @ 09:45",
+      "status_str": "Código en espera de aprobación."
+    },
+    "payment_request": {
+      "status_str": "Pendiente",
+      "request_date_str": "1 de Enero de 1 @ 00:00",
+      "amount_str": "0.00",
+      "payment_request_id": null,
+      "request_date": "0001-01-01T00:00:00",
+      "uuid": null,
+      "paypal_account_id": null,
+      "amount": 0,
+      "status": 0,
+      "authorization_date": "0001-01-01T00:00:00"
+    },
+    "paypal_transaction": {
+      "transaction_date_str": "1 de Enero de 1 @ 00:00",
+      "status_str": "Por ejecutar",
+      "paypal_transaction_id": null,
+      "uuid": null,
+      "paypal_account_id": null,
+      "amount": 0,
+      "transaction_date": "0001-01-01T00:00:00",
+      "status": 0,
+      "receipt_url": null,
+      "has_receipt": 0,
+      "payer_account_id": null,
+      "plan_id": null,
+      "admin_id": null,
+      "sender_batch_id": null,
+      "sender_item_id": null,
+      "payout_item_id": null,
+      "payout_batch_id": null,
+      "official_paypal_transaction_id": null,
+      "payment_request_id": null
+    }
+  }
+}

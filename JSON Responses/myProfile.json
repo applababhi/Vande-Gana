@@ -1,0 +1,14 @@
+{
+  "internal_code": 0,
+  "message": "User personal information was successfully retireved.",
+  "response_object": {
+    "uuid": "454cb9fe-608b-438a-b218-b94009798bef",
+    "first_name": "Abhi",
+    "last_name_1": "Ios",
+    "last_name_2": "Sg",
+    "gender_id": 1,
+    "workplace_id": "101010",
+    "residence_state_id": "109",
+    "admin_id": null
+  }
+}
